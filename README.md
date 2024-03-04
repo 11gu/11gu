@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reetesh
-- 👀 I’m interested in Engineering and Well being
+- 👀 I’m interested in All Type of Technologies
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me 11gu on github
